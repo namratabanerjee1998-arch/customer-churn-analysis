@@ -38,8 +38,7 @@ so retention teams can intervene before cancellation.
 
 ## 🚀 How to Run
 1. git clone https://github.com/namratabanerjee1998-arch/customer-churn-analysis.git
-2. Download dataset from Kaggle kaggle.com/datasets/blastchar/telco-customer-churn (File name:
-WA_Fn-UseC_-Telco-Customer-Churn.csv)
+2. Download dataset from Kaggle:  https://www.kaggle.com/datasets/blastchar/telco-customer-churn (File name:WA_Fn-UseC_-Telco-Customer-Churn.csv)
 3. pip install -r requirements.txt
 4. Run notebooks in order: 01 → 02 → 03
 5. Open powerbi/churn_dashboard.pbix in Power BI Desktop
