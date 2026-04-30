@@ -37,7 +37,7 @@ so retention teams can intervene before cancellation.
 | XGBoost             | 0.89    | 0.73      | 0.80   | 0.76 |
 
 ## 🚀 How to Run
-1. git clone https://github.com/YOUR_NAME/customer-churn-analysis
+1. git clone https://github.com/namratabanerjee1998-arch/customer-churn-analysis.git
 2. Download dataset from Kaggle (link in notebook)
 3. pip install -r requirements.txt
 4. Run notebooks in order: 01 → 02 → 03
